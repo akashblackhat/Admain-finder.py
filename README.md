@@ -1,5 +1,4 @@
 # Admain-finder (Demo)
-![infogaa](https://user-images.githubusercontent.com/88341460/216569040-aabe73a3-5b3b-4184-9587-bc9e02221e2e.jpg)
 # Tested On Hackers :
  
  * Kali Linux
