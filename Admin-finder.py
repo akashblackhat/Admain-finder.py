@@ -23,10 +23,6 @@ timebanner("\033[32m╚███╔███╔╝███████╗██
 timebanner("\033[32m ╚══╝╚══╝ ╚══════╝╚═════╝  ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝ \033[31mV1.0")
 timebanner("\033[31mTip [*] This hacking tool is use to find website admin pannel[*]")
 timebanner("\033[32mDeveloper: Akash Black Hat")
-timebanner("WhatsApp :+91 8389020949")
-timebanner("YouTube  :Technical Akash Skills")
-timebanner("Github   :https://github.com/akashblackhat")
-timebanner("Team     :https://www.facebook.com/AKASHBLACKHAT")
 timebanner("\033[38m**********************************************************************")
 timebanner("\033[32mHTTP y HTTPS [ http://www.example.com ]  [ https://www.example.com ] ")
 
