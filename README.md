@@ -1,36 +1,36 @@
-# Admain-finder (Demo)
-# Tested On Hackers :
- 
- * Kali Linux
+# **Admain Finder** 🕵️‍♂️
 
- * BlackArch Linux
- 
- * Ubuntu
+**Admain Finder** is a tool designed to help penetration testers and security researchers identify potential admin accounts across various platforms. Whether you're running Kali Linux, Ubuntu, Termux, or Parrot OS, **Admain Finder** works seamlessly to give you access to valuable information. 😎🔍
 
- * Kali Nethunter
+### **Tested On:**
+- **Kali Linux**
+- **BlackArch Linux**
+- **Ubuntu**
+- **Kali Nethunter**
+- **Termux (Rooted Devices)**
+- **Parrot OS**
 
- * Termux ( Rooted Devices)
+> "The digital world is full of possibilities, but remember: there is no such thing as absolute privacy or security."  
+> — **The Hacker's Motto** 🕶️
 
- * Parrot OS
-# Installation
-# Kali Linux / Ubuntu / Parrot OS :
-    sudo apt-get update && apt-get install git
-    git clone https://github.com/akashblackhat/Admain-finder.py.git
-    ls
-    cd Admain-finder.py
-    ls
-    sudo python3 Admain-finder.py
-# Termux Installation :
-    apt update 
-    apt install git 
-    apt install python
-    apt install python3
-    apt install cmatrix
-    git clone https://github.com/akashblackhat/Admain-finder.py.git
-    ls
-    cd Admain-finder.py
-    ls
-    python3 Admain-finder.py
-# tools video :
+## **🚀 Installation Instructions**
 
- # Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
+### **For Kali Linux / Ubuntu / Parrot OS:**
+
+1. **Update your system and install necessary tools:**
+   ```bash
+   sudo apt-get update && sudo apt-get install git
+
+# **Clone the Admain Finder repository:** 
+       git clone https://github.com/akashblackhat/Admain-finder.py.git
+# **Navigate to the project folder: **
+       cd Admain-finder.py
+# **Run the script: **
+       sudo python3 Admain-finder.py
+
+      
+
+# ⚠️ Important Notes:
+# Privacy & Security: In the digital realm, nothing is 100% secure. Always be aware of your actions and use tools like this responsibly and legally. 💻⚖️
+
+# Ethical Hacking: This tool should be used only for educational purposes, authorized security testing, and research. Do not use it on any system without proper consent.
