@@ -32,7 +32,5 @@
     ls
     python3 Admain-finder.py
 # tools video :
-# Disclaimer :
-* Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for       Pentest or Educational purpose 🏴 !!!
- Hacking is not a crime (: ..Pull requests are always welcome.. :)
+
  # Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
