@@ -33,4 +33,3 @@
 # ⚠️ Important Notes:
 # Privacy & Security: In the digital realm, nothing is 100% secure. Always be aware of your actions and use tools like this responsibly and legally. 💻⚖️
 
-# Ethical Hacking: This tool should be used only for educational purposes, authorized security testing, and research. Do not use it on any system without proper consent.
